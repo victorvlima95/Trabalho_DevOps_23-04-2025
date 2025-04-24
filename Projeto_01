@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Trabalho DevOps</title>
+</head>
+<body>
+  <h1>Bem-vindo ao Trabalho de DevOps</h1>
+  <p>Essa é uma página HTML simples para o exercício de versionamento com Git.</p>
+  <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
+</body>
+</html>
