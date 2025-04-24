@@ -8,7 +8,7 @@
 
 <body>
   <h1>Alteração feita na branch main</h1>
-  <p>Alteração feita na branch principal!</p>
+  <p>Essa alteração será a última antes do Merge Request!</p>
   <button onclick="alert('Você clicou no botão!')">Clique aqui</button>
 </body>
 
